@@ -1,0 +1,7 @@
+{
+  "name": "Anjani",
+  "description": "My baby for you - daily commute companion for the Andheri to MIDC route.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
